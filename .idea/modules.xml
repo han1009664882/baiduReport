@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baiduReport.iml" filepath="$PROJECT_DIR$/.idea/modules/baiduReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baiduReport_main.iml" filepath="$PROJECT_DIR$/.idea/modules/baiduReport_main.iml" group="baiduReport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baiduReport_test.iml" filepath="$PROJECT_DIR$/.idea/modules/baiduReport_test.iml" group="baiduReport" />
+    </modules>
+  </component>
+</project>
